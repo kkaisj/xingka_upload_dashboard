@@ -1,0 +1,34 @@
+{
+  "奥迪": {
+    "regions": [
+      "ARGENTINA",
+      "BRAZIL",
+      "FAW-VW",
+      "MEXICO",
+      "SAIC VW",
+      "SOUTH AFRICA",
+      "USA"
+    ]
+  },
+  "大众": {
+    "regions": [
+      "ARGENTINA",
+      "BRAZIL",
+      "FAW-VW",
+      "MEXICO",
+      "SAIC VW",
+      "SOUTH AFRICA",
+      "USA"
+    ]
+  },
+  "斯科达": {
+    "regions": [
+      "SAIC VW"
+    ]
+  },
+  "西雅特": {
+    "regions": [
+      "LOCAL MARKET"
+    ]
+  }
+}

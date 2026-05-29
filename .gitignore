@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+backend/.venv/
+backend/.venv.*/
+
+# Node / frontend
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.vite/
+
+# Environment and local secrets
+.env
+*.env.local
+backend/.env
+backend/.env.*
+!backend/.env.example
+
+# Runtime state, events, and local backups
+.task_state*.json
+.task_events*.jsonl
+*.backup
+*.bak
+
+# Logs
+*.log
+*.out.log
+*.err.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
